@@ -22,5 +22,6 @@ public class Collatz {
         }
         System.out.println();
     }
+    //你知道的
 }
 
